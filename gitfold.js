@@ -6,31 +6,31 @@ module.exports = {
     {
       type: 'input',
       name: 'name',
-      message: '¿What is the project name?',
+      message: 'What is the project name?',
       default: 'node-express-mongodb-skeleton'
     },
     {
       type: 'input',
       name: 'port',
-      message: '¿What is the default port?',
+      message: 'What is the default port?',
       default: 3000
     },
     {
       type: 'input',
       name: 'expiration',
-      message: '¿JWT token expiration (default 100 days)?',
+      message: 'JWT token expiration (default 100 days)?',
       default: '100d'
     },
     {
       type: 'input',
       name: 'mongodbUri',
-      message: '¿mongodb host?',
+      message: 'mongodb host?',
       default: 'mongodb://localhost:27017'
     },
     {
       type: 'input',
       name: 'dbName',
-      message: '¿database name?',
+      message: 'database name?',
       default: 'my-project'
     }
   ],
