@@ -1,4 +1,4 @@
-# Node.js express.js MongoDB JWT REST API - Basic Project Skeleton
+# {{ project.name }}
 
 [![Author](http://img.shields.io/badge/author-@davellanedam-blue.svg?style=flat-square)](https://twitter.com/davellanedam)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton/blob/master/LICENSE)
