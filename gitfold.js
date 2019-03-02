@@ -2,7 +2,7 @@ module.exports = {
   // process: () => {
   //   return { name: 'DEFAULT NAME' }
   // },
-  questions: () => [
+  questions: [
     {
       type: 'input',
       name: 'name',
