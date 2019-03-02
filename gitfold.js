@@ -37,6 +37,7 @@ module.exports = {
   end: (config, utils) => {
     utils.shell.cp('.env.example', '.env')
     utils.shell.rm('.env.example')
+    utils.shell.exec('git init')
 
     const cmd1 = utils.chalk.yellow(`cd ${config.folder}`)
     const cmd2 = utils.chalk.yellow(`npm start`)
