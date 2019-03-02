@@ -1,3 +1,12 @@
+## v.2.1.3 (Mar 2, 2019)
+* Verification removed from responses at registration and forgot password (They were being used for testing and somehow made it here)
+
+## v.2.1.2 (Mar 2, 2019)
+* FEATURE: Install nodemon in devDependencies [\#9](https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton/issues/9)
+* Typos
+* README.md updated
+
+
 ## v.2.1.1 (Feb 27, 2019)
 * README.md updated
 
